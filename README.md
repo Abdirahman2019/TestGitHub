@@ -1,2 +1,2 @@
 # TestGitHub
-it was my first to use github
+it was my first time to use github
